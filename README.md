@@ -1,7 +1,7 @@
 # RetinaImageGDOP
 Geometric Dilution of Precision on Retina Optic disc Segmention Analysis
 
-# How to work
+## How to work
 1.create 2 folders: groundtruth and prediction folder
 
 2.put your image in 2 folders
@@ -9,5 +9,5 @@ Geometric Dilution of Precision on Retina Optic disc Segmention Analysis
 3.run GDOP.py file,you will get the result on your screen
 
 
-# Requiremnets
+## Requiremnets
 basic python modules: math,glob,numpy
